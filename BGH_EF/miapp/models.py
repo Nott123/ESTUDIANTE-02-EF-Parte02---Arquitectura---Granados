@@ -8,4 +8,4 @@ class Docente (models.Model):
 	estado =  models.TextField(max_length=1)
 
 
-# Create your models here.
+
